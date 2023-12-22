@@ -1,0 +1,44 @@
+==============================
+Question2Answer Voice Commander (Narrow AI)
+==============================
+
+-----------
+Description
+-----------
+Q2A Voice Commander_ allows you to interact with your Q2A website via voice commands.  
+Search, Navigate and more solely trough voice commands.
+
+.. _Q2A Voice Commander: https://heliochun.github.io/shop/
+
+-----------
+Screenshots
+-----------
+- Voice Commander: Screenshot-1_
+
+.. _Screenshot-1: https://raw.githubusercontent.com/heliochun/q2a-badges/master/screenshots/new-features-2.png
+
+
+------------
+Installation
+------------
+
+#. Install Question2Answer_
+#. Get the source code for this plugin by purchasing it from the Shop_.
+#. Go to **Admin -> Plugins** on your q2a installation and select the '**Activate Voice Commander**' option, then '**Save Changes**'.
+
+.. _Question2Answer: http://www.question2answer.org/install.php
+.. _Shop: https://heliochun.github.io/shop/
+
+-----------
+Translation
+-----------
+
+Go to **Admin -> Plugins** on your q2a installation and select options on the '**Voice Commander**' section.  
+There's no bulk translation, you'll have to go trough the options one-by-one.  
+Heres a list of supported languages_ for this plugin.
+
+.. _languages: https://github.com/heliochun/q2a-voice-commander/blob/master/docs/supported-languages.md
+
+
+
+

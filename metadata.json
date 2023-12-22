@@ -1,0 +1,11 @@
+{
+	"name": "Voice Commander",
+	"uri": "https://github.com/heliochun/q2a-voice-commander",
+	"description": "Q2A voice commands. Search, navigate and interact with your Q2A site trough voice commands",
+	"version": "1.0",
+	"date": "2023-12-04",
+	"author": "Chun",
+	"author_uri": "https://heliochun.github.io/",
+	"update_uri": "https://github.com/heliochun/q2a-voice-commander/metadata.json",
+	"license": "Premium"
+}
