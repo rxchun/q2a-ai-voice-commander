@@ -5,7 +5,7 @@ Question2Answer Voice Commander (Narrow AI)
 -----------
 Description
 -----------
-Q2A Voice Commander_ allows you to interact with your Q2A website via voice commands.  
+`Q2A Voice Commander`_ allows you to interact with your Q2A website via voice commands.  
 Search, Navigate and more solely trough voice commands.
 
 .. _Q2A Voice Commander: https://heliochun.github.io/shop/

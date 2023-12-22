@@ -6,6 +6,6 @@
 	"date": "2023-12-04",
 	"author": "Chun",
 	"author_uri": "https://heliochun.github.io/",
-	"update_uri": "https://github.com/heliochun/q2a-voice-commander/metadata.json",
+	"update_uri": "https://raw.githubusercontent.com/heliochun/q2a-voice-commander/master/metadata.json",
 	"license": "Premium"
 }
