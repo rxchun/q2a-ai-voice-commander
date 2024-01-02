@@ -4,15 +4,12 @@
 
 ## Description ##
 
-`Q2A AI Voice Commander`_ allows you to Search, Navigate and interact with your Q2A website via voice commands.  
+[Q2A AI Voice Commander](https://heliochun.github.io/shop/) allows you to Search, Navigate and interact with your Q2A website via voice commands.  
 
-.. _Q2A AI Voice Commander: https://heliochun.github.io/shop/
 
 ## Screenshots ##
 
-- Voice Commander: Screenshot-1_
-
-.. _Screenshot-1: https://raw.githubusercontent.com/heliochun/q2a-badges/master/screenshots/new-features-2.png
+- Voice Commander: [Screenshot-1](https://raw.githubusercontent.com/heliochun/q2a-badges/master/screenshots/new-features-2.png)
 
 
 ## Installation ##
