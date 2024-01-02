@@ -23,5 +23,5 @@
 
 Go to **Admin -> Plugins** on your q2a installation and select options on the '**Voice Commander**' section.  
 There's no bulk translation, you'll have to go trough the options one-by-one.  
-Heres a list of supported languages_[Question2Answer](https://github.com/heliochun/q2a-voice-commander/blob/master/docs/supported-languages.md) for this plugin.
+Heres a list of supported [languages](https://github.com/heliochun/q2a-voice-commander/blob/master/docs/supported-languages.md) for this plugin.
 
